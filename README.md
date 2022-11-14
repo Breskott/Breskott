@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudando **Bacharel em Técnologia da Informação** pela <a href="https://univesp.br/">UNIVESP</a>.
 - 💼 &nbsp; Trabalhando como **Analista Desenvolvedor de T.I** na <a href="https://www.aggrowth.com/">AGI Brasil</a>
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS, TypeScript, Java e C#**.
-- 🌍 &nbsp; Site pessoal com foco em desenvolvimento e implatações <a href="https://breskott.com.br/">**Breskott's Software House**</a>.
+- 🌍 &nbsp; Site pessoal com foco em desenvolvimento e implatações <a href="https://breskott.com.br/">Breskott's Software House</a>.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
