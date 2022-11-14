@@ -55,5 +55,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/victor.breskott)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5518996930799)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/breskott/)
-[![Outlook](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:victorbreskott@hotmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-006bed?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:victorbrescott@hotmail.com)
 [![Breskott]( https://img.shields.io/github/followers/Breskott?label=follow&style=social)](https://github.com/breskott)
