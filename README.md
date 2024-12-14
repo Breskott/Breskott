@@ -3,10 +3,16 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; **Bacharelado em Tecnologia da Informação** pela <a href="https://univesp.br/">UNIVESP</a>.
-- 💼 &nbsp; Trabalhando como **Analista Desenvolvedor de T.I** na <a href="https://www.aggrowth.com/">AGI Brasil</a>
+- 📚 &nbsp; Atualmente cursando:
+  - **Pós-Graduação em Inteligência Artificial na Prática** pela FAMEF.
+  - **Pós-Graduação em Cibersegurança** pela FAMEF.
+- 🎓 &nbsp; Pós-Graduações concluídas:
+  - **Pós-Graduação em Engenharia de Software** pela FAMEF.
+  - **Pós-Graduação em Administração de Banco de Dados** pela FAMEF.
+- 🎓 &nbsp; **Bacharelado em Tecnologia da Informação** pela [UNIVESP](https://univesp.br/).
+- 💼 &nbsp; Trabalhando como **Analista Desenvolvedor de T.I** na [AGI Brasil](https://www.aggrowth.com/).
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS, TypeScript, Java e C#**.
-- 🌍 &nbsp; Site pessoal com foco em desenvolvimento e implantação <a href="https://breskott.com.br/">Breskott's Software House</a>.
+- 🌍 &nbsp; Site pessoal com foco em desenvolvimento e implantação: [Breskott's Software House](https://breskott.com.br/).
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
