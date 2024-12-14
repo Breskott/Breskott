@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 📚 &nbsp; Atualmente cursando:
-  - **Pós-Graduação em Inteligência Artificial na Prática** pela FAMEF.
   - **Pós-Graduação em Cibersegurança** pela FAMEF.
+  - **Pós-Graduação em Inteligência Artificial na Prática** pela FAMEF.
 - 🎓 &nbsp; Pós-Graduações concluídas:
   - **Pós-Graduação em Engenharia de Software** pela FAMEF.
   - **Pós-Graduação em Administração de Banco de Dados** pela FAMEF.
