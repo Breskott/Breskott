@@ -4,11 +4,11 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 📚 &nbsp; Atualmente cursando:
-  - **Pós-Graduação em Cibersegurança** pela FAMEF.
-  - **Pós-Graduação em Inteligência Artificial na Prática** pela FAMEF.
+  - **Pós-Graduação em Cibersegurança** pela [FAMEF](https://www.famef.edu.br/).
+  - **Pós-Graduação em Inteligência Artificial na Prática** pela [FAMEF](https://www.famef.edu.br/).
 - 🎓 &nbsp; Pós-Graduações concluídas:
-  - **Pós-Graduação em Engenharia de Software** pela FAMEF.
-  - **Pós-Graduação em Administração de Banco de Dados** pela FAMEF.
+  - **Pós-Graduação em Engenharia de Software** pela [FAMEF](https://www.famef.edu.br/).
+  - **Pós-Graduação em Administração de Banco de Dados** pela [FAMEF](https://www.famef.edu.br/).
 - 🎓 &nbsp; **Bacharelado em Tecnologia da Informação** pela [UNIVESP](https://univesp.br/).
 - 💼 &nbsp; Trabalhando como **Analista Desenvolvedor de T.I** na [AGI Brasil](https://www.aggrowth.com/).
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS, TypeScript, Java e C#**.
