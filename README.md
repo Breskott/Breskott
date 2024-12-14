@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 📚 &nbsp; Atualmente cursando:
-  - **Pós-Graduação em Cibersegurança** pela [FAMEF](https://www.famef.edu.br/).
+  - **Pós-Graduação em Cibersegurança** pela [FACULDADE METROPOLITANA](https://www.faculdademetropolitana.edu.br/).
   - **Pós-Graduação em Inteligência Artificial na Prática** pela [FAMEF](https://www.famef.edu.br/).
 - 🎓 &nbsp; Pós-Graduações concluídas:
   - **Pós-Graduação em Engenharia de Software** pela [FAMEF](https://www.famef.edu.br/).
