@@ -55,7 +55,7 @@
 <br/>
 
 <a href="https://github.com/Breskott">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breskott&theme=github_dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breskott&theme=github_dark&locale=pt-br&show_icons=true" />
 </a>
 
 <br/>
